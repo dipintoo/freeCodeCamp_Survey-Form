@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="stylesheet" href="style.css" />
+	<title>Survey</title>
+</head>
+
+<body>
+	<div class="container">
+		<header>
+			<h1 id="title">Front-End Developer </h1>
+			<p id="description">Learning Plan for the Next Year</p>
+		</header>
+		<form action="" id="survey-form">
+			<div class="form-group">
+				<label id="name-label" for="name">What is your name?</label>
+				<input type="text" name="name" id="name" class="form-control" placeholder="My name is ..." autocomplete="off" required />
+			</div>
+			<div class="form-group">
+				<label id="email-label" for="email">What is your email address?</label>
+				<input type="email" name="email" id="email" class="form-control" placeholder="My email is ..." autocomplete="off" required />
+			</div>
+			<div class="form-group">
+				<label id="number-label" for="age">How old are you?</label>
+				<input type="number" name="age" id="number" class="form-control" placeholder="I am ..." autocomplete="off" required min=10 max=100 />
+			</div>
+
+			<div class="form-group">
+
+				<select name="role" id="dropdown" class="form-control" required>
+					<option disabled selected value>Select your learning style</option>
+					<option value="student">Interactive Coding Bootcamp</option>
+					<option value="job">Online Courses</option>
+					<option value="say">Self-Paced Tutorials</option>
+					<option value="other">Others</option>
+				</select>
+			</div>
+
+			<div class="form-group">
+				<p>How many hours per week can you dedicate to learning?</p>
+				<label for=""><input type="radio" value="definitely" name="recommend" class="input-radio" checked />4 hours</label>
+
+				<label for=""><input type="radio" value="maybe" name="recommend" class="input-radio" />6 hours</label>
+
+				<label for=""><input type="radio" value="notsure" name="recommend" class="input-radio" />10 hours</label>
+			</div>
+
+			<div class="form-group">
+				<p>Do you have any specific front-end frameworks or tools in mind to master?</p>
+				<label for=""><input type="checkbox" value="web" name="improve" class="input-checkbox" />React</label>
+
+				<label for=""><input type="checkbox" value="data" name="improve" class="input-checkbox" />Vue</label>
+
+				<label for=""><input type="checkbox" value="uiux" name="improve" class="input-checkbox" />Angular</label>
+			</div>
+
+			<div class="form-group">
+				<p>What motivates you to pursue a career as a front-end developer?</p>
+				<textarea name="comment" id="comments" class="input-textarea" placeholder=""></textarea>
+			</div>
+
+			<div class="form-group">
+				<button type="submit" id="submit" class="submit-button">Submit</button>
+			</div>
+		</form>
+	</div>
+
+</body>
+
+</html>

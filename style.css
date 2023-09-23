@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Orbitron:wght@600&family=Playfair:opsz,wght@5..1200,400;5..1200,500;5..1200,600&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+:root {
+	--color-white: #f3f3f3;
+	--color-darkblue: #1b1b32;
+	--color-green: #37af65;
+	--font-family-poppins: "Poppins", sans-serif;
+	--font-family-playfair: "Playfair", serif;
+	--font-weight-light: 300;
+	--font-weight-normal: 400;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: var(--font-family-poppins);
+	line-height: 1.7;
+	font-weight: var(--font-weight-light);
+	color: #161613;
+	padding: 2.4rem 0.8rem;
+	background: #f6f4ee;
+}
+
+h1 {
+	font-family: var(--font-family-playfair);
+	font-size: 3.2rem;
+	font-weight: 600;
+	line-height: 1.2;
+	margin-bottom: 0.8rem;
+}
+
+p {
+	font-size: 1rem;
+	margin-bottom: 0.8rem;
+}
+
+header {
+	text-align: center;
+	max-width: 460px;
+	width: 100%;
+}
+
+header p {
+	font-weight: var(--font-weight-light);
+	font-size: 1.2rem;
+}
+
+.container {
+	display: grid;
+	place-items: center;
+	width: 100%;
+	max-width: 600px;
+	margin: 2rem auto;
+	gap: 3.2rem;
+}
+
+form {
+	display: grid;
+	gap: 2rem;
+}
+
+label {
+	display: flex;
+	font-size: 1rem;
+	margin-bottom: 0.4rem;
+}
+
+input,
+button,
+select,
+textarea {
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+	font-weight: var(--font-weight-light);
+}
+
+.form-group select {
+	padding-block: 1rem;
+	padding-inline: 0;
+}
+
+.form-control {
+	width: 100%;
+	border: none;
+	border-bottom: 1px solid gray;
+	background-color: transparent;
+	padding: 0.6rem;
+}
+
+.form-control:focus {
+	outline: 0;
+	border-bottom: 2px solid var(--color-darkblue);
+}
+
+.input-radio,
+.input-checkbox {
+	margin-right: 0.8rem;
+	min-width: 1rem;
+}
+
+.input-textarea {
+	min-height: 10rem;
+	width: 100%;
+	padding: 1rem;
+	resize: vertical;
+	color: #161613;
+}
+
+.submit-button {
+	font-family: var(--font-family-playfair);
+	font-size: 1.6rem;
+	border: none;
+	width: 100%;
+	padding: 0.75rem;
+	background-color: #161613;
+	color: white;
+	cursor: pointer;
+	font-weight: var(--font-weight-normal);
+}
+
+.submit-button:hover {
+	background-color: var(--color-darkblue);
+}
