@@ -1,4 +1,4 @@
-# 1/5 Survey Form Project
+# [1/5] Survey Form Project
 
 Selamat datang di Survey Form Project! Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
 
