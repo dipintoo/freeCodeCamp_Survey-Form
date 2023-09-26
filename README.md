@@ -1,6 +1,19 @@
 # Proyek Survey Form
 
-Selamat datang di proyek Survey Form! Proyek ini bertujuan untuk memenuhi sejumlah User Stories yang telah ditentukan. Anda dapat mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari proyek ini.
+Selamat datang di proyek Survey Form! Proyek ini merupakan bagian pertama dari serangkaian lima proyek yang harus Anda selesaikan untuk mendapatkan sertifikasi Responsive Web Design dari [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Anda dapat mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari proyek ini.
+
+## Sertifikasi Responsive Web Design
+
+Proyek ini adalah langkah pertama Anda dalam perjalanan menuju sertifikasi Responsive Web Design dari [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Untuk meraih sertifikasi ini, Anda harus menyelesaikan lima proyek yang ditentukan dan lulus ujian praktik yang sesuai.
+
+### Persiapan yang Dianjurkan
+
+Alangkah baiknya jika Anda mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Anda dapat melihat materi pembelajaran dan latihan-latihan yang diberikan oleh freeCodeCamp dalam kursus [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan Anda memahami konsep-konsep dasar seperti HTML, CSS, responsif desain, dan validasi formulir.
+
+Dengan memahami materi tersebut sebelumnya, Anda akan lebih siap dan cepat dalam menyelesaikan lima proyek yang ada. Selamat belajar dan semoga sukses dalam perjalanan Anda untuk meraih sertifikasi Responsive Web Design!
+
+Selamat belajar dan ngoding 🤩💻
+
 
 ## User Stories
 
