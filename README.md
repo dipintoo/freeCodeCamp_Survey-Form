@@ -67,6 +67,8 @@ Kamu bisa mengkode proyek ini dan mengujinya di [freecodecamp.org](https://www.f
 ## Contoh Proyek
 
 Kamu bisa melihat contoh proyek Survey Form dari freeCodeCamp di [sini](https://survey-form.freecodecamp.rocks).
-Buatlah desain dengan gaya kamu ya agar hasilnya lebih personal dan menantang buat kamu 😊👍🏻
+Kalo mau lihat Hasil codingan dan desain saya bisa click link di About ya 😀
+
+Jangan lupa buat dengan gaya kamu ya agar hasilnya lebih personal dan menantang buat kamu 😊👍🏻
 
 Selamat ngoding dan ngedesain!
