@@ -1,16 +1,16 @@
-# Proyek Survey Form
+# 1/5 Survey Form Project
 
-Selamat datang di proyek Survey Form! Proyek ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari proyek ini.
+Selamat datang di Survey Form Project! Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
 
 ## Sertifikasi Responsive Web Design
 
-Proyek ini adalah langkah pertama kamu dalam perjalanan menuju sertifikasi [Responsive Web Design dari freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Untuk meraih sertifikasi ini, kamu harus menyelesaikan lima proyek yang ditentukan dan lulus ujian praktik yang sesuai.
+Project ini adalah yang pertama dari lima project yang harus kamu kerjakan dan lolos pengujian dalam perjalanan sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) kamu. Semangat belajarnya ya dan semoga sukses dalam perjalanan kamu meraih sertifikat Responsive Web Design dari freeCodeCamp!
 
 ### Persiapan yang Dianjurkan
 
-Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa melihat materi pembelajaran dan latihan-latihan yang diberikan oleh freeCodeCamp dalam kursus [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar seperti HTML, CSS, responsif desain, dan validasi formulir.
+Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa melihat materi pembelajaran dan latihan-latihan yang diberikan oleh freeCodeCamp dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar dari HTML, CSS, dan responsif desain. Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam menyelesaikan kelima project-nya.  
 
-Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam menyelesaikan lima proyek yang ada. Selamat belajar dan semoga sukses dalam perjalanan kamu untuk meraih sertifikasi Responsive Web Design!
+Sekarang... Ayo kita mulai!
 
 ## User Stories
 
@@ -62,11 +62,14 @@ Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam
 
 ## Coding dan Testing
 
-Kamu bisa ngoding dan melakukan testing langsung di [freecodecamp.org](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form).
+Kamu bisa ngoding dan melakukan testing langsung di [Survey Form project build](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form).  
+
+Note: Be sure to add `<link rel="stylesheet" href="styles.css">` ya.
 
 ## Contoh Proyek
 
-Kamu bisa melihat contoh proyek Survey Form dari freeCodeCamp di [sini](https://survey-form.freecodecamp.rocks).  
+Kamu bisa melihat contoh project Survey Form dari freeCodeCamp di https://survey-form.freecodecamp.rocks.  
+
 Kalo mau lihat Hasil codingan dan desain saya bisa click link di About ya 😀
 
 Jangan lupa buat dengan gaya kamu ya agar hasilnya lebih personal dan menantang buat kamu 😊👍🏻
