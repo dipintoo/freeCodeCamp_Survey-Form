@@ -62,7 +62,7 @@ Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam
 
 ## Coding dan Testing
 
-Kamu bisa mengkode proyek ini dan mengujinya di [freecodecamp.org](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form).
+Kamu bisa ngoding dan melakukan testing langsung di [freecodecamp.org](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form).
 
 ## Contoh Proyek
 
