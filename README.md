@@ -1,14 +1,11 @@
 # [1/5] Survey Form Project
 
-Selamat datang di Survey Form Project! Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
+Selamat datang di Survey Form Project! 
+Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan lolos pengujian untuk meraih sertifikasi [Responsive Web Design (https://www.freecodecamp.org/learn/2022/responsive-web-design/) dari freeCodeCamp!. Project ini harus memenuhi sejumlah User Stories yang telah ditentukan. Kamu bisa mengikuti langkah-langkah di bawah ini untuk memahami tugas dan tujuan dari project ini.
 
-## Sertifikasi Responsive Web Design
+### Persiapan
 
-Project ini adalah yang pertama dari lima project yang harus kamu kerjakan dan lolos pengujian dalam perjalanan sertifikasi [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) kamu. Semangat belajarnya ya dan semoga sukses dalam perjalanan kamu meraih sertifikat Responsive Web Design dari freeCodeCamp!
-
-### Persiapan yang Dianjurkan
-
-Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa melihat materi pembelajaran dan latihan-latihan yang diberikan oleh freeCodeCamp dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar dari HTML, CSS, dan responsif desain. Dengan memahami materi tersebut sebelumnya, kamu akan lebih siap dan cepat dalam menyelesaikan kelima project-nya.  
+Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa membaca materi pembelajaran dan mengerjakan latihan-latihan yang diberikan oleh freeCodeCamp dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar dari HTML, CSS, dan responsif desain agar kamu akan lebih siap dan cepat dalam menyelesaikan kelima project sertifikasinya.  
 
 Sekarang... Ayo kita mulai!
 
