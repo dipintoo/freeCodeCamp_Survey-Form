@@ -5,7 +5,7 @@ Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan
 
 ### Persiapan
 
-Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa membaca materi pembelajaran dan mengerjakan latihan-latihan yang diberikan oleh freeCodeCamp dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar dari HTML, CSS, dan responsif desain agar kamu akan lebih siap dan cepat dalam menyelesaikan kelima project sertifikasinya.  
+Alangkah baiknya jika kamu mempersiapkan diri dengan baik sebelum mulai mengerjakan proyek-proyek ini. Kamu bisa membaca materi pembelajaran dan mengerjakan latihan-latihan yang diberikan oleh freeCodeCamp dalam course [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Pastikan kamu memahami konsep-konsep dasar dari HTML, CSS, dan responsif desain agar kamu lebih siap dan cepat dalam menyelesaikan kelima project sertifikasinya.  
 
 Sekarang... Ayo kita mulai!
 
