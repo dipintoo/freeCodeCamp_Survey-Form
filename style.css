@@ -143,6 +143,11 @@ input[type="radio"]:checked::before {
 	color: #161613;
 }
 
+.input-textarea:focus {
+	outline: 0;
+	border-bottom: 2px solid #161613;
+}
+
 .submit-button {
 	font-family: var(--font-family-playfair);
 	font-size: 1.6rem;
