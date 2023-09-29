@@ -70,5 +70,8 @@ Kalo mau lihat Hasil codingan dan desain saya bisa click link di About ya 😀
 
 Jangan lupa buat dengan gaya kamu ya agar hasilnya lebih personal dan menantang buat kamu 😊👍🏻
 
-Selamat ngoding dan ngedesain!
+Selamat ngoding dan ngedesain!  
+
+
+[***Next Project - [2/5] Tribute Page >>***](https://github.com/dipintoo/freeCodeCamp_Tribute-Page)
 
